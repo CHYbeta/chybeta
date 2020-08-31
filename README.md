@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CHYbeta/chybeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Twitter: https://twitter.com/chybeta
 - Blog: https://chybeta.github.io/
 - Coffee: https://www.buymeacoffee.com/GhJEnVq
