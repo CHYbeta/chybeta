@@ -8,5 +8,4 @@
 [![Twitter: chybeta](https://img.shields.io/twitter/follow/chybeta?style=flat-square)](https://twitter.com/chybeta)
 [![GitHub chybeta](https://img.shields.io/github/followers/chybeta?label=follow%20github&style=flat-square)](https://github.com/chybeta)
 
-### ZSXQ ~
-![](https://github.com/CHYbeta/Web-Security-Learning/blob/master/zsxq_ldgf.png)
+<img src="https://github.com/CHYbeta/Web-Security-Learning/blob/master/zsxq_ldgf.png" alt="Editor" width="60%" highth="60%">
