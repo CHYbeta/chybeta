@@ -1,5 +1,4 @@
-# I'm chybeta, Work at Alibaba Cloud Security Team 
-
+# I'm chybeta
 
 <img align='right' src="https://xzfile.aliyuncs.com/media/upload/picture/20210805230907-147e9e28-f5ff-1.png" width="380">
 
