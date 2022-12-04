@@ -1,6 +1,6 @@
 # I'm chybeta
 
-<img align='right' src="./zsxq_ldbc2.jpg">
+<img align='right' src="./zsxq_ldbc2.jpg" width="400">
 
 ========= **Starting with chy** ==============
 - 知识星球：[【漏洞百出】](https://public.zsxq.com/groups/555848225184.html)
